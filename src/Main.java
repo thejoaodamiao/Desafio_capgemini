@@ -6,6 +6,11 @@
  *
  */
 public class Main {
+	/**
+	 * metodo main da aplicação
+	 * 
+	 * @param args
+	 */
 
 	public static void main(String[] args) {
 		Questao_1 Escada = new Questao_1();
