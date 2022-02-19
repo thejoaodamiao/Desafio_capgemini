@@ -7,16 +7,12 @@ import org.junit.jupiter.api.Test;
  * @author João Damião
  *
  */
-
-class Questao_2Test {
+class Questao_1Test {
 
 	@Test
 	void test() {
-
-		Questao_2 Senha = new Questao_2();
-		assertNotNull(Senha);
-		int result = Senha.verifyPassword("Yab");
-		assertEquals(3, result);
+		Questao_1 Escada = new Questao_1();
+		assertNotNull(Escada);
 	}
 
 }
